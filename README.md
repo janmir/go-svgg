@@ -7,6 +7,7 @@ Generate SVG graphs from data
 - [SVG to Canvas](https://github.com/canvg/canvg)
 - [Go SVG Parser](https://github.com/rustyoz/svg)
 - [Go embed font in SVG](https://github.com/BTBurke/svg-embed-font)
+- [Go Chart](https://github.com/wcharczuk/go-chart)
 
 # :zap: Inspire
 - [Graphs & Colors](https://dribbble.com/shots/4852834-Graphs)
