@@ -2,7 +2,11 @@
 Generate SVG graphs from data
 
 # :book: Resources
+- [SVG Go](https://github.com/ajstarks/svgo)
 - [Smoothing Paths](https://medium.com/@francoisromain/smooth-a-svg-path-with-cubic-bezier-curves-e37b49d46c74)
+- [SVG to Canvas](https://github.com/canvg/canvg)
+- [Go SVG Parser](https://github.com/rustyoz/svg)
+- [Go embed font in SVG](https://github.com/BTBurke/svg-embed-font)
 
 # :zap: Inspire
 - [Graphs & Colors](https://dribbble.com/shots/4852834-Graphs)
